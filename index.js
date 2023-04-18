@@ -1,4 +1,6 @@
-
+/*Coder:Andre luiz*/
+/*https://www.linkedin.com/in/andre-luiz-790599182/*/
+/*Front-end developer*/
 const colors = require('colors');
 const EventEmitter = require('events');
 const emitter = new EventEmitter();
